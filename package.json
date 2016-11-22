@@ -1,0 +1,22 @@
+{
+  "name": "okla",
+  "version": "1.0.0",
+  "description": "OKla 前端静态资源",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godbug/okla.git"
+  },
+  "author": "godbug",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/godbug/okla/issues"
+  },
+  "homepage": "https://github.com/godbug/okla#readme",
+  "devDependencies": {
+    "gh-pages": "^0.12.0"
+  }
+}
